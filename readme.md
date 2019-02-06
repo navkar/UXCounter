@@ -1,3 +1,3 @@
 ## Screenshots
 
-[Slider Menu](screenshots/001.jpg) 
+![Counter](screenshots/001.jpg) 
